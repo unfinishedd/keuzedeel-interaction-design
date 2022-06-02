@@ -1,11 +1,11 @@
 # Keuzedeel Interaction Design
 
-Door: Sam D.
+Door: Sam D. </br>
 Klas: SD2A
 
 ## Informatie
 
-Naam van het examen: Interaction Design voor de opleiding SD (Software Developer)  
+Interaction Design voor de opleiding SD (Software Developer)  
 
 ## Onderdelen
 
@@ -23,30 +23,32 @@ Nog niet gemaakt.
 
 ### Userstories
 
-Project: Naam  
-[Trello Link](--link--)
+Project: Transformers Community
+[Trello Link](https://trello.com/b/sg5JkROM/transformers-community)
 
 
 ### Moodboard
 
-Nog niet gemaakt.
+Project: Foam Museum
+[File Link](https://github.com/unfinishedd/keuzedeel-interaction-design/tree/main/moodboards)
 
 
 ### Styleboard
 
-Nog niet gemaakt.
+Project: Foam Museum
+[File Link](https://github.com/unfinishedd/keuzedeel-interaction-design/tree/main/styleboards)
 
 
 ### Wireframes
 
-Project: Naam Project
-[GitHub Link](--link--)
+Project: Foam Museum
+[File Link](https://github.com/unfinishedd/keuzedeel-interaction-design/tree/main/wireframes)
 
 
 ### Visueel Ontwerp (XD)
 
-Project: Project naam
-(link)
+Project: Foam Museum
+https://xd.adobe.com/view/24b99b91-aec0-45a9-ae6a-a0eaa2ecd0bf-71ea/
 
 
 ### Onderzoek testen met doelgroep
@@ -56,5 +58,5 @@ Nog niet gemaakt.
 
 ### Prototype
 
-Project: Project naam  
-[GitHub Link](--link--)
+Project: AFA Cup Front End
+[GitHub Link](https://github.com/unfinishedd/afa-cup-front-end)
