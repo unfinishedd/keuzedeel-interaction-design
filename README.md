@@ -2,7 +2,7 @@
 
 <h2 style="color: white;"align="center">Keuzedeel Interaction Design</h2>
 
-<p style="color: red;font-weight: bold" align="center" > Door: Sam D. <span style="color: black;">| </span><span style="color: white;"> Klas: SD2A </span></p>
+<p style="color: red;font-weight: bold" align="center" > Door: Sam D.  <span style="color: black;">| </span><span style="color: white;">  Klas: SD2A </span></p>
 
 <p align="center">
     <a href="#"><img src="https://img.shields.io/github/last-commit/unfinishedd/keuzedeel-interaction-design" alt="Last commit"></a>
@@ -85,8 +85,8 @@ Project: Foam Museum </br>
 
 ### Onderzoek testen met doelgroep
 
-Project: ~ Nog niet gemaakt. ~ </br>
-[Onderzoek testen met doelgroep]( ~ Nog niet gemaakt. ~ )
+Project: Foam Museum </br>
+[Onderzoek testen met doelgroep](https://github.com/unfinishedd/keuzedeel-interaction-design/tree/main/onderzoek%20testen%20met%20doelgroep)
 
 
 ### Prototype
