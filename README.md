@@ -43,20 +43,20 @@ Interaction Design voor de opleiding SD (Software Developer)
 
 ### Onderzoek klant en product
 
-Project:  ~ Nog niet gemaakt. ~  </br>
-[Onderzoek klant en product]( ~ Nog niet gemaakt. ~ )
+Project: Foam Museum </br>
+[Onderzoek klant en product](https://github.com/unfinishedd/keuzedeel-interaction-design/tree/main/onderzoek-klant-en-product)
 
 
 ### Persona
 
 Project: ~ Nog niet gemaakt. ~ </br>
-[Persona]( ~ Nog niet gemaakt. ~ )
+[Persona](https://github.com/unfinishedd/keuzedeel-interaction-design/tree/main/persona)
 
 
 ### Userstories
 
-Project: Transformers Community </br>
-[Trello Link](https://trello.com/b/sg5JkROM/transformers-community)
+Project: Foam Museum </br>
+[Trello Link](https://trello.com/b/fozAhvke/foam-e-commerce)
 
 
 ### Moodboard
