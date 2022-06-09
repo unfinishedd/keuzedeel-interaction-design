@@ -49,7 +49,7 @@ Project: Foam Museum </br>
 
 ### Persona
 
-Project: ~ Nog niet gemaakt. ~ </br>
+Project: Foam Museum </br>
 [Persona](https://github.com/unfinishedd/keuzedeel-interaction-design/tree/main/persona)
 
 
