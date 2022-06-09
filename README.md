@@ -44,7 +44,7 @@ Interaction Design voor de opleiding SD (Software Developer)
 ### Onderzoek klant en product
 
 Project: Foam Museum </br>
-[Onderzoek klant en product](https://github.com/unfinishedd/keuzedeel-interaction-design/tree/main/onderzoek-klant-en-product)
+[Onderzoek klant en product](https://github.com/unfinishedd/keuzedeel-interaction-design/tree/main/onderzoek%20klant%20en%20product)
 
 
 ### Persona
