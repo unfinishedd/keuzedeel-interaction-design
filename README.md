@@ -30,25 +30,25 @@ Project: Transformers Community
 ### Moodboard
 
 Project: Foam Museum
-[File Link](https://github.com/unfinishedd/keuzedeel-interaction-design/tree/main/moodboards)
+[Moodboard](https://github.com/unfinishedd/keuzedeel-interaction-design/tree/main/moodboards)
 
 
 ### Styleboard
 
 Project: Foam Museum
-[File Link](https://github.com/unfinishedd/keuzedeel-interaction-design/tree/main/styleboards)
+[Styleboard](https://github.com/unfinishedd/keuzedeel-interaction-design/tree/main/styleboards)
 
 
 ### Wireframes
 
 Project: Foam Museum
-[File Link](https://github.com/unfinishedd/keuzedeel-interaction-design/tree/main/wireframes)
+[Wireframe](https://github.com/unfinishedd/keuzedeel-interaction-design/tree/main/wireframes)
 
 
 ### Visueel Ontwerp (XD)
 
 Project: Foam Museum
-https://xd.adobe.com/view/24b99b91-aec0-45a9-ae6a-a0eaa2ecd0bf-71ea/
+[Visueel Ontwerp] (https://xd.adobe.com/view/24b99b91-aec0-45a9-ae6a-a0eaa2ecd0bf-71ea/)
 
 
 ### Onderzoek testen met doelgroep
@@ -58,5 +58,6 @@ Nog niet gemaakt.
 
 ### Prototype
 
-Project: AFA Cup Front End
+Project: AFA-Cup (Front End)
 [GitHub Link](https://github.com/unfinishedd/afa-cup-front-end)
+
